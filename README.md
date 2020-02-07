@@ -1,2 +1,2 @@
 # Projects
-Projects created in spare time
+Projects created in my spare time for conceptual revision, understanding new tricks etc.
